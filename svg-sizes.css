@@ -1,0 +1,10 @@
+.svg-logo {
+    width: 149px;
+    height: 37px;
+}
+.svg-user,
+.svg-location,
+.svg-server {
+    width: 55px;
+    height: 55px;
+}
